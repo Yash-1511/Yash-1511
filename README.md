@@ -57,7 +57,7 @@ I love the entire process of developing creative websites. I love the challenge 
 [![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-1511&show_icons=true&theme=tokyonight)](https://github.com/Yash-1511/github-readme-stats)
 
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Yash-1511.Yash-1511)](https://www.yushi.dev/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Yash-1511.Yash-1511)](https://github.com/Yash-1511/)
 
 
 <!--
