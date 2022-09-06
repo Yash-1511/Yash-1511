@@ -21,13 +21,11 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 🔭 I'm currently working on
 
 - Personal Projects
-- SMS Gateway (PHP)
-
 ## 🌱 I'm currently learning
 
 - Data Science
 - Machine Learning
-- C#
+- AWS
 
 ## 💼 Language And Tools
 
