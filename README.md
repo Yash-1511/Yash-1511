@@ -1,4 +1,4 @@
-![Mybanner](https://user-images.githubusercontent.com/82636823/144787655-9fe291c4-d03c-4067-a790-b6865f29bb92.png)
+![Mybanner](https://media.licdn.com/dms/image/D4D16AQHPXgnmAoM2eg/profile-displaybackgroundimage-shrink_350_1400/0/1697702593926?e=1703721600&v=beta&t=8Q_kmHcdLA_rPXW8gSeiIc_VgD33jolzScxaIfAq3m0)
 
 <h3 align="center">
 Hi there, I'm Yash parmar👋
