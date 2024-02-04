@@ -1,4 +1,4 @@
-![Mybanner](https://media.licdn.com/dms/image/D4D16AQHPXgnmAoM2eg/profile-displaybackgroundimage-shrink_350_1400/0/1697702593926?e=1703721600&v=beta&t=8Q_kmHcdLA_rPXW8gSeiIc_VgD33jolzScxaIfAq3m0)
+![linkedinbanner](https://github.com/Yash-1511/Yash-1511/assets/82636823/e6626455-3ec1-446a-adbc-c2b765e3adf7)
 
 <h3 align="center">
 Hi there, I'm Yash parmar👋
