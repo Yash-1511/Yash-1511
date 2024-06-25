@@ -11,6 +11,9 @@ I'm a Full-Stack Web Developer 💻, AI/ML Engineer
 # 💫 About Me:
 🔭 Hi there! I'm a full stack developer with experience in AI/ML.<br>👯Currently, I'm working on several exciting AI/ML projects that involve developing and implementing cutting-edge algorithms to solve complex problems. <br>🤝 If you have any questions or need assistance with an AI/ML project, feel free to reach out to me. I'm always happy to lend a helping hand and share my knowledge and expertise.<br>🌱  I'm always eager to collaborate with like-minded individuals who are passionate about advancing the field of AI/ML.<br>⚡ Fun fact: When you are working be like a robot, not a human
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Yash-1511&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Yash-1511&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yash-1511&theme=tokyonight&hide_border=false)<br/>
@@ -19,9 +22,6 @@ I'm a Full-Stack Web Developer 💻, AI/ML Engineer
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yash-1511&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Yash-1511&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/dY93jYUe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Yashparmar_1124) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-parmar-26744b211/) 
