@@ -12,7 +12,7 @@ I'm a Full-Stack Web Developer 💻, AI/ML Engineer
 🔭 Hi there! I'm a full stack developer with experience in AI/ML.<br>👯Currently, I'm working on several exciting AI/ML projects that involve developing and implementing cutting-edge algorithms to solve complex problems. <br>🤝 If you have any questions or need assistance with an AI/ML project, feel free to reach out to me. I'm always happy to lend a helping hand and share my knowledge and expertise.<br>🌱  I'm always eager to collaborate with like-minded individuals who are passionate about advancing the field of AI/ML.<br>⚡ Fun fact: When you are working be like a robot, not a human
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Yash-1511&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Yash-1511&limit=8&theme=dark&combine_all_yearly_contributions=true)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Yash-1511&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
